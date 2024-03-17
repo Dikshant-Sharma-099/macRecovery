@@ -1,0 +1,43 @@
+/*Pseudo-classes allow you to apply styles to elements based on various conditions, 
+such as the position of the mouse, the status of its content, 
+or the history of the navigator.*/
+
+a:link{
+    color: magenta;
+}
+a:hover{
+    color: aqua;
+    font-size: 1.1em;
+}
+a:active{
+    color: hsl(0, 46%, 64%);
+}
+a::visited{
+    color: grey;
+}
+/* UNORDERED LIST
+
+li:hover{
+    background-color: aqua;
+}
+li:not(:hover){
+    background-color: pink;
+}
+*/
+/*Nth child pseudoclass*/
+
+/*li:nth-child(2n-1){
+    background-color: bisque;
+}
+*/
+
+/* SOME OTHER COOL STUFF*/
+
+#GReetings p{
+    background-color: aqua;
+    padding: 10px;
+    display: none;
+}
+#GReetings:hover p{
+    display: block;
+}

@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+
+.box{
+    margin: auto;
+    border: 5px solid;
+    font-size: 5em;
+    height: 250px;
+    width: 250px;
+}
+#BOX1{
+    background-color: red;
+}
+#BOX2{
+    background-color: yellow;
+}

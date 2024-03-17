@@ -1,0 +1,18 @@
+#dabba1{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    position: sticky;
+    top: 0px;
+    
+
+}#dabba2{
+    background-color: hsla(28, 81%, 52%, 0.782);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    bottom: 50px;
+
+}

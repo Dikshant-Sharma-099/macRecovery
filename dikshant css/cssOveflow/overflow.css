@@ -1,0 +1,7 @@
+div{
+    height: 75px;
+    border: 2px solid;
+    width: 200px;
+    overflow: auto;
+}
+/* you can apparently use overflow auto,scroll,visible,hidden or clip*/

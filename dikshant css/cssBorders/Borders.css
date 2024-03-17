@@ -1,0 +1,12 @@
+h1{
+    border: 3px solid hsla(0, 66%, 27%, 0.373);
+    border-radius: 20px;
+}
+P{
+    border-bottom: 4px solid rgba(100, 80, 187, 0.62);
+    border-top: 4px solid yellowgreen;
+    border-left: 4px dashed green;
+    border-right: 4px dotted red;
+
+    border-radius: 10px;
+}
